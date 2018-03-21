@@ -24,14 +24,14 @@ The way I type is pretty fast, but also stupid and wrong. It's 2018 and I need t
 - [x] Lessons 170 - 179
 - [x] Lessons 180 - 189
 - [x] Lessons 190 - 199
-- [ ] Lessons 200 - 209
-- [ ] Lessons 210 - 219
-- [ ] Lessons 220 - 229
-- [ ] Lessons 230 - 239
-- [ ] Lessons 240 - 249
-- [ ] Lessons 250 - 259
-- [ ] Lessons 260 - 269
-- [ ] Lessons 270 - 279
+- [x] Lessons 200 - 209
+- [x] Lessons 210 - 219
+- [x] Lessons 220 - 229
+- [x] Lessons 230 - 239
+- [x] Lessons 240 - 249
+- [x] Lessons 250 - 259
+- [x] Lessons 260 - 269
+- [x] Lessons 270 - 279
 - [ ] Lessons 280 - 289
 - [ ] Lessons 290 - 299
 - [ ] Lessons 300 - 309
