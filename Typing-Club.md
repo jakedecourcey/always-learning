@@ -32,7 +32,7 @@ The way I type is pretty fast, but also stupid and wrong. It's 2018 and I need t
 - [x] Lessons 250 - 259
 - [x] Lessons 260 - 269
 - [x] Lessons 270 - 279
-- [ ] Lessons 280 - 289
+- [x] Lessons 280 - 289
 - [ ] Lessons 290 - 299
 - [ ] Lessons 300 - 309
 - [ ] Lessons 310 - 319
