@@ -36,7 +36,7 @@ The way I type is pretty fast, but also stupid and wrong. It's 2018 and I need t
 - [x] Lessons 290 - 299
 - [x] Lessons 300 - 309
 - [x] Lessons 310 - 319
-- [ ] Lessons 320 - 329
+- [x] Lessons 320 - 329
 - [ ] Lessons 330 - 339
 - [ ] Lessons 340 - 349
 - [ ] Lessons 350 - 359
