@@ -33,7 +33,7 @@ The way I type is pretty fast, but also stupid and wrong. It's 2018 and I need t
 * [x] Lessons 300 - 309
 * [x] Lessons 310 - 319
 * [x] Lessons 320 - 329
-* [ ] Lessons 330 - 339
+* [x] Lessons 330 - 339
 * [ ] Lessons 340 - 349
 * [ ] Lessons 350 - 359
 * [ ] Lessons 360 - 369
